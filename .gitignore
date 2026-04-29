@@ -1,0 +1,9 @@
+Part2/years/
+Part2/database/
+*.csv
+*.db
+*.sqlite
+*.bz2
+.DS_Store
+*.RData
+*.RDataTmp*
